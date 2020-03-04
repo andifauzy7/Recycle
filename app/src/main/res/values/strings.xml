@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your Mission</string>
+    <string name="heroes_name">Nama Task</string>
+    <string name="detail">Detail Task</string>
+</resources>
