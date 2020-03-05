@@ -10,7 +10,8 @@ public class TaskData {
             "Survey Statistika",
             "Proposal Himpunan",
             "Rapat Himpunan",
-            "Kumpul Angkatan"
+            "Kumpul Angkatan",
+            "Kerja Kelompok Proyek"
     };
 
     private static String[] heroDetails = {
@@ -20,7 +21,8 @@ public class TaskData {
             "Melakukan survey ke mahasiswa POLBAN mengenai aplikasi Freelance",
             "Merancang proposal program kerja Himpunan",
             "Rapat membahas kepengurusan Himpunan",
-            "Kumpul Angkatan membahas mengenai Kunjungan Industri"
+            "Kumpul Angkatan membahas mengenai Kunjungan Industri",
+            "Kerja kelompok untuk persiapan presentasi Sprint 1"
     };
 
     static ArrayList<Task> getListData() {
